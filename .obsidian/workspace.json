@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operation Testing.md",
+                "file": "Project Lily/Operation Prosperity Unity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operation Testing"
+              "title": "Operation Prosperity Unity"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operation Testing.md",
+                "file": "Project Lily/Operation Prosperity Unity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Operation Testing"
+              "title": "Backlinks for Operation Prosperity Unity"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operation Testing.md",
+                "file": "Project Lily/Operation Prosperity Unity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Operation Testing"
+              "title": "Outgoing links from Operation Prosperity Unity"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operation Testing.md"
+                "file": "Project Lily/Operation Prosperity Unity.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Operation Testing"
+              "title": "Outline of Operation Prosperity Unity"
             }
           }
         ]
@@ -165,6 +165,18 @@
   },
   "active": "c767a4dfcd3c2dcb",
   "lastOpenFiles": [
-    "Operation Testing.md"
+    "Project Lily/Operation Prosperity Redundancy.md",
+    "Operation Testing.md",
+    "Operation Dark Star",
+    "Project Lily/Project Lily.md",
+    "Project Lily/Operation Prosperity Unity.md",
+    "Project Lily",
+    "Project Poet of the Moon/Operation Sundial.md",
+    "Project Poet of the Moon/Operation Breathless Alpine.md",
+    "Project Poet of the Moon",
+    "Project Orion's Belt/Operation Safe Refuge.md",
+    "Project Orion's Belt/Operation Prosperity Lifeline.md",
+    "Project Orion's Belt/Operation Prosperity Guardian.md",
+    "Project Orion's Belt"
   ]
 }
