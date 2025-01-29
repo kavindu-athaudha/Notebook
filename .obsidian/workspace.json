@@ -159,23 +159,24 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "c767a4dfcd3c2dcb",
   "lastOpenFiles": [
+    "Project Orion's Belt/Operation Prosperity Guardian.md",
     "Project Lily/Operation Prosperity Redundancy.md",
+    "Project Lily/Operation Prosperity Unity.md",
+    "Project Lily/Project Lily.md",
+    "Project Orion's Belt/Operation Prosperity Lifeline.md",
+    "Project Orion's Belt/Operation Safe Refuge.md",
+    "Project Poet of the Moon/Operation Breathless Alpine.md",
+    "Project Poet of the Moon/Operation Sundial.md",
     "Operation Testing.md",
     "Operation Dark Star",
-    "Project Lily/Project Lily.md",
-    "Project Lily/Operation Prosperity Unity.md",
     "Project Lily",
-    "Project Poet of the Moon/Operation Sundial.md",
-    "Project Poet of the Moon/Operation Breathless Alpine.md",
     "Project Poet of the Moon",
-    "Project Orion's Belt/Operation Safe Refuge.md",
-    "Project Orion's Belt/Operation Prosperity Lifeline.md",
-    "Project Orion's Belt/Operation Prosperity Guardian.md",
     "Project Orion's Belt"
   ]
 }
